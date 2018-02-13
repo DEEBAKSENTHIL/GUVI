@@ -3,7 +3,7 @@ void main()
 {
 int a,b,i,temp1,temp2,n=0,x=0,rem;
 printf("Enter the intervals");
-scanf("%d%d,&a&b);
+scanf("%d%d",&a,&b);
 printf("The amstrong numbers are:");
 for(i=a;i<=b;i++)
 {
